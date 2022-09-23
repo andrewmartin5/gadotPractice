@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "E28jW2cwlGtXG2zsbl6LYGS9NFLC5IORlWgbwX/+pz2Zc8pLIAxmF8e4oPsEJfd8xuUbslBdx1sB3ko8nyzbew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Work\\Documents\\gadotPractice\\gadotPractice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Work\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\Work\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.2\\microsoft.netframework.referenceassemblies.net472.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

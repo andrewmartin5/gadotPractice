@@ -1,0 +1,9 @@
+C:\Users\Work\Documents\gadotPractice\.mono\temp\bin\Debug\gadotPractice.dll
+C:\Users\Work\Documents\gadotPractice\.mono\temp\bin\Debug\gadotPractice.pdb
+C:\Users\Work\Documents\gadotPractice\.mono\temp\obj\Debug\gadotPractice.csproj.AssemblyReference.cache
+C:\Users\Work\Documents\gadotPractice\.mono\temp\obj\Debug\gadotPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work\Documents\gadotPractice\.mono\temp\obj\Debug\gadotPractice.AssemblyInfoInputs.cache
+C:\Users\Work\Documents\gadotPractice\.mono\temp\obj\Debug\gadotPractice.AssemblyInfo.cs
+C:\Users\Work\Documents\gadotPractice\.mono\temp\obj\Debug\gadotPractice.csproj.CoreCompileInputs.cache
+C:\Users\Work\Documents\gadotPractice\.mono\temp\obj\Debug\gadotPractice.dll
+C:\Users\Work\Documents\gadotPractice\.mono\temp\obj\Debug\gadotPractice.pdb

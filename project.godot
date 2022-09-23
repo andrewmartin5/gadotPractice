@@ -10,7 +10,8 @@ config_version=4
 
 [application]
 
-config/name="godotPractice"
+config/name="gadotPractice"
+run/main_scene="res://Sprite.tscn"
 config/icon="res://icon.png"
 
 [gui]
